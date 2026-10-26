@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: api-gateway
+app:
+  title: API GATEWAY
+  description: Hoc Cung Toi
+  language: vie
